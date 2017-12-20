@@ -11,7 +11,7 @@ Notes Keeper
 
 ## Опис додатка додатка
 
-Функціональність додатка на відео [YouTube](https://youtu.be/l45vfbyMqrU)
+Функціональність додатка на відео [Notes app](https://youtu.be/l45vfbyMqrU)
 
 ### Додаток складається з:
 * Вікна входу;
