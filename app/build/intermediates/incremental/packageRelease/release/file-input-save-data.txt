@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Dec 17 22:02:23 EET 2017
+0.baseType=DIRECTORY
+0.base=D\:\\SimpleNotesApp-master\\app\\build\\intermediates\\transforms\\dex\\release\\0
+0.path=classes.dex
+0.set=DEX
+count=1
